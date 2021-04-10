@@ -19,8 +19,17 @@ Jawab : perbedaannya adalah elemen didalam h1 berisi {
 
 3 Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
 elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
-penjel…
+penjelasan dan contohnya!
+Jawab : Deklarasi dibagian background CSS eksternal akan berubah warna
+
+4 Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
+terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
+Berikan penjelasan dan contohnya! ( < p id="paragraf-1" class="text-paragraf"> )
+Jawab : Deklarasi keduanya dapat ditampilkan di web browser
+
+
 ## Belajar CSS Dasar
 ### Membuat halaman pertama
 kodingan hasil halaman pertama seperti gambar dibawah ini!
 ![Screenshot (32)](https://user-images.githubusercontent.com/81613338/114272380-cdcade00-99ca-11eb-9e04-3ba7ae339b8c.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/81613338/114272833-91987d00-99cc-11eb-847e-780cab07f8c8.png)
