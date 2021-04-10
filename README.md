@@ -1,4 +1,5 @@
 
+
 # tugas2
 1 Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
@@ -34,3 +35,5 @@ kodingan hasil halaman pertama seperti gambar dibawah ini!
 ![Screenshot (32)](https://user-images.githubusercontent.com/81613338/114272380-cdcade00-99ca-11eb-9e04-3ba7ae339b8c.png)
 ### Tampilan Html
 ![Screenshot (34)](https://user-images.githubusercontent.com/81613338/114272833-91987d00-99cc-11eb-847e-780cab07f8c8.png)
+### Contoh Stile
+![Screenshot (36)](https://user-images.githubusercontent.com/81613338/114273023-5ea2b900-99cd-11eb-8a00-4b50664283b2.png)
