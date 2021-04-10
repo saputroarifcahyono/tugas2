@@ -32,4 +32,5 @@ Jawab : Deklarasi keduanya dapat ditampilkan di web browser
 ### Membuat halaman pertama
 kodingan hasil halaman pertama seperti gambar dibawah ini!
 ![Screenshot (32)](https://user-images.githubusercontent.com/81613338/114272380-cdcade00-99ca-11eb-9e04-3ba7ae339b8c.png)
+### Tampilan Html
 ![Screenshot (34)](https://user-images.githubusercontent.com/81613338/114272833-91987d00-99cc-11eb-847e-780cab07f8c8.png)
